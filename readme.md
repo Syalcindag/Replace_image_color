@@ -7,4 +7,4 @@ Resimleri index dosyasının olduğu dizine koyun ve $dirname kısmındaki adres
 ![image](metro-turizm.jpg)
 
 *****************************
-![image](metro-turizm(2).jpg)
+![image](metro-turizm (2).jpg)
