@@ -9,4 +9,6 @@ Resimleri index dosyasının olduğu dizine koyun ve $dirname kısmındaki adres
 
 Değiştirilmiş hali
 
-![image2](metro-turizm (2).jpg)
+![image2](metro-turizm2.jpg)
+
+
