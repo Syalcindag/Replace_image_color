@@ -1,4 +1,4 @@
-#Uyarılar
+#Bilgilendirme
 ```
 $dirname
 ```
